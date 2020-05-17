@@ -1,4 +1,4 @@
-# Sales-Example
+# Vendas Windows Forms
 
 Exemplo de controle de vendas.
 
